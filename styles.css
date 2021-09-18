@@ -58,3 +58,8 @@ h3{
 p {
     font-size:larger;
 }
+#intro{
+    font-size:x-small;
+    color: #d6cece;
+    font-family: cursive;
+}
