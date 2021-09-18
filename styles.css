@@ -5,13 +5,12 @@ body {
     color: #c3c1c1;
 }
 h1 {
-    background-color: tomato;
+    background-color: #8c0414;
     text-align:center;
 }
 nav ul{
     background-color:#ffed38;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    display: flex-block;
     text-align: center;
     border-radius: 10%;
 }
@@ -41,4 +40,21 @@ img {
     text-align:center;
     border: 15px solid #8c0414;
     background-color:#ba0000;
+}
+h2 {
+    color: 	#ffdc4b;
+    font:larger;
+    text-align: center;
+}
+.images a{
+    color:	#ffce00;
+    background-color:#313131;
+    font-size:larger;
+}
+h3{
+    color: 	#ffa698;
+    font-size:smaller;
+}
+p {
+    font-size:larger;
 }
